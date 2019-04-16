@@ -37,12 +37,12 @@
 # Présentation du sujet :
 <img src="Annexes/Gazelle.jpg" width="100%"  align="middle">
 
-  Pour notre projet ARE, nous avons décidé de nous pencher sur le sujet de la sélection naturelle. Pour cela nous allons simuler une chaine alimentaire dans laquelle des espèces seront dominante ou dominées. Les espèces seront modelisées par des ronds de couleur et leur taille sera un indicateur de domination. Plus elles sont grosse, plus elles auront tendance à manger les autres (leur grande taille augmente aussi les chances de rencontrer d'autres espèces).
+  Pour notre projet ARE, nous avons décidé de nous pencher sur le sujet de la sélection naturelle. Pour cela nous allons simuler une chaine alimentaire dans laquelle des espèces seront dominantes ou dominées. Les espèces seront modelisées par des ronds de couleur et leurs tailles seront un indicateur de domination. Plus elles seront grosses, plus elles auront tendances à manger les autres (leur grande taille augmente aussi les chances de rencontrer d'autres espèces).
   
 <img src="Annexes/Photo présentation des espèces.png" width="65%"  align="middle">
 
 
-Cependant on observait simplement que l'espèce domiante était la seule qui restait en vie, on a donc décider d'introduire un genre. En effet, les boules femelles de l'espèce dominante permettent aux mâles de se reproduire, néanmoins les femelles sont quant à elles des proies potentielles des autres espèces et les bébés aussi sont vulnérables à toutes les autres espèces étant donné qu'il ne sont pas asssez developpés. De cette manière on peut voir en fonction du nombre d'individu, l'évolution de l'espèce dominante qui, malgré sa domination flagrante, peut être voué à l'extinction. En jouant sur les paramètres de notre projet, on peut observer diverses phénomènes qui étaient plutôt impredictible.
+Cependant on observait simplement que l'espèce domiante était la seule qui restait en vie, on a donc décider d'introduire un genre. En effet, les boules femelles de l'espèces dominantes permettent aux mâles de se reproduire, néanmoins les femelles sont quant à elles des proies potentielles des autres espèces et les bébés aussi sont vulnérables à toutes les autres espèces étant données qu'ils ne sont pas asssez developpés. De cette manière on peut voir en fonction du nombre d'individu, l'évolution de l'espèce dominante qui, malgré sa domination flagrante, peut être voué à l'extinction. En jouant sur les paramètres de notre projet, on peut observer diverses phénomènes qui étaient plutôt impredictible.
 
 <img src="Annexes/Photo que enfants sans predateurs.png" width="65%"  align="middle"> 
 
@@ -67,7 +67,7 @@ Pour ce qui est de la partie technique, nous nous sommes servi du logiciel pytho
 
 ## Interaction:
 
-Une fois les balles en mouvement, nous avons instauré une dominance qui se traduisait par une forte probabilité qu'une balle en "mange" une autre l'or d'une rencontre.
+Une fois les balles en mouvement, nous avons instauré une dominance qui se traduisait par une forte probabilité qu'une balle en "mange" une autre lors d'une rencontre.
 
 <img src="Annexes/Photo Programme Supression.png" width="100%"  align="middle">
 
@@ -75,7 +75,7 @@ Une fois les balles en mouvement, nous avons instauré une dominance qui se trad
 
 
 ## Création
-Après la suppresion viens la création, lorsque les balles mâles et femelles d'une même espèce se rencontre, on instaure une probabilité qu'il se reproduise que l'on peut modifier (cette probabilité peut correspondre à une saison ou un environnement plus ou moins favorable à la reproduction.
+Après la suppresion vient la création, lorsque les balles mâles et femelles d'une même espèce se rencontre, on instaure une probabilité qu'il se reproduise que l'on peut modifier (cette probabilité peut correspondre à une saison ou un environnement plus ou moins favorable à la reproduction.
 
 <img src="Annexes/Photo Programme Creation.png" width="100%"  align="middle">
 
@@ -84,6 +84,6 @@ Après la suppresion viens la création, lorsque les balles mâles et femelles d
 
 ## Graphe
 
-Pour finalement obtenir un graphe d'évolution, il fallait que la boucle puisse se terminer, on a donc instaurer un stop qui prend effet dès lors que les bébés de l'espèce rouge et blanche ne sont plus sous la menace des prédateurs environnant et sont donc voué à devenir adultes.
+Pour finalement obtenir un graphe d'évolution, il fallait que la boucle puisse se terminer, on a donc instaurer un stop qui prend effet dès lors que les bébés de l'espèce rouge et blanche ne sont plus sous la menace des prédateurs environnant et sont donc voués à devenir adultes.
 
 <img src="Annexes/Photo d'un graphe.png" width="65%"  align="middle">
