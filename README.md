@@ -1,5 +1,15 @@
 # Selection-Naturelle-ARE
 
+# Sommaire
+- [Membre du groupe de recherche](#membres)
+- [Attribution des taches](#taches)
+- [Présentation sommaire du sujet](#sujet)
+- [Présentation du code](#code)
+  - [Présentation du déplacement](#deplacement)   
+  - [Présentation des interactions](#interaction)
+  - [Présentation de la reproduction](#creation)
+  - [Présentation du graphe obtenu](#graphe)
+  
 
 <a name="membres"/>
 
