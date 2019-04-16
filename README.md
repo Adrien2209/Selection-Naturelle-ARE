@@ -14,7 +14,7 @@
 <a name="membres"/>
 
 # Membre du groupe de recherche :
-- Mark Lewis BWEMBA
+- Mark Lewis SOPPO LOVET
 - Adrien FORT
 - Zakaria ZEROUALI 
 - Guy NGOY
