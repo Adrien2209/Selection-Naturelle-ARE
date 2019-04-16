@@ -10,8 +10,28 @@
 - Guy NGOY
 
 
+<a name="taches"/>
+
+
+# Attribution des taches :
+- Mark Lewis BWEMBA : Collision entre Balles (Reproduction et Disparition)
+- Adrien FORT : Déplacement des Balles, Création du Graphe
+- Zakaria ZEROUALI : Déplacement des Balles, Site Internet
+- L'HARIDON Nora : Diapo et Documentation
+
+
+
+<a name="sujet"/>
+
+
+# Présentation du sujet :
+image tigre
+
   Pour notre projet ARE, nous avons décidé de nous pencher sur le sujet de la sélection naturelle. Pour cela nous allons simuler une chaine alimentaire dans laquelle des espèces seront dominante ou dominées. Les espèces seront modeliser par des rond de couleur et leur taille sera un indicateur de domiantion. plus elles sont grosse, plus elles auront tendance a manger les autres(leur grande taille augmente aussi les chances de rencontrer d'autres espèces).
+  
 image avec toutes les espèces sans les bébés
+
+
 Cependant on observait simplement que l'espèce domiante était la seule qui restait en vie, on a donc décider d'introduire un genre. En effet, les boules femelles de l'espèce dominante permettent aux mâles de se reproduire, néanmoins les femelles sont quant à elles des proies potentielles des autres espèces et les bébés aussi sont vulnérables à toutes les autres espèces étant donné qu'il ne sont pas asssez developpés. De cette manière on peut voir en fonction du nombre d'individu, l'évolution de l'espèce dominante qui, malgré sa domination flagrante, peut être voué à l'extinction. En jouant sur les paramètres de notre projet, on peut observer diverses phénomènes qui étaient plutôt impredictible.
 image final après exctinction des prédateur pour bébé et graphe.
 Code:
