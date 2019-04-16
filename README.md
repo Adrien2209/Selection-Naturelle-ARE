@@ -25,7 +25,7 @@
 
 
 # Présentation du sujet :
-<img src="Nouveau dossier (3)/Gazelle.jpg" width="100%"  align="middle">
+<img src="Nouveau dossier (3)/Photo Programme Creation.png" width="100%"  align="middle">
 
   Pour notre projet ARE, nous avons décidé de nous pencher sur le sujet de la sélection naturelle. Pour cela nous allons simuler une chaine alimentaire dans laquelle des espèces seront dominante ou dominées. Les espèces seront modelisées par des ronds de couleur et leur taille sera un indicateur de domination. Plus elles sont grosse, plus elles auront tendance à manger les autres (leur grande taille augmente aussi les chances de rencontrer d'autres espèces).
   
