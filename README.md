@@ -51,7 +51,7 @@ Cependant on observait simplement que l'espèce domiante était la seule qui res
 
 Pour ce qui est de la partie technique, nous nous sommes servi du logiciel python ainsi que du module tkinter pour modéliser notre projet. Il a fallut d'abord créer des balles et leur affecter un déplacement, pour ce faire on s'est servi d'une boucle dans laquelle on change les coordonnées à chaque tour. Il a aussi fallut créer un rebond pour que la balle ne quitte pas le cadre.
 
-<img src="Annexes/Photo Programme rebond.png" width="65%"  align="middle">
+<img src="Annexes/Photo Programme rebond.png" width="100%"  align="middle">
 
 <a name="interaction"/>
 
@@ -59,7 +59,7 @@ Pour ce qui est de la partie technique, nous nous sommes servi du logiciel pytho
 
 Une fois les balles en mouvement, nous avons instauré une dominance qui se traduisait par une forte probabilité qu'une balle en "mange" une autre l'or d'une rencontre.
 
-<img src="Annexes/Photo Programme Supression.png" width="65%"  align="middle">
+<img src="Annexes/Photo Programme Supression.png" width="100%"  align="middle">
 
 <a name="creation"/>
 
