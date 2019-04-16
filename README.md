@@ -24,7 +24,7 @@
 
 
 # Attribution des taches :
-- Mark Lewis BWEMBA : Collision entre Balles (Reproduction et Disparition)
+- Mark Lewis SOPPO LOVET : Collision entre Balles (Reproduction et Disparition)
 - Adrien FORT : Déplacement des Balles, Création du Graphe, Mise en Page
 - Zakaria ZEROUALI : Déplacement des Balles, Site Internet
 - Guy NGOY : Diapo et Documentation
